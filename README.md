@@ -2,4 +2,5 @@
  Primeiro repositório do curso de Git e GitHub
 
  Repositório criado durante uma aula ao vivo!
- Impressionante!
+
+ Essa linha eu adicionei diretamente no site! Impressionante!
